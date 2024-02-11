@@ -3,7 +3,7 @@
 Welcome to the Employee Management System! This application allows you to manage departments, roles, and employees in your organization through a command-line interface.
 
 ## Features
-[Untitled_ Feb 11, 2024 12_55 PM (2).webm](https://github.com/Nicholasdavis03/Employee-Tracker/assets/142276107/00323876-8b5b-4472-970b-fffccb221c06)
+[[Untitled_ Feb 11, 2024 12_55 PM (2).webm](https://github.com/Nicholasdavis03/Employee-Tracker/assets/142276107/00323876-8b5b-4472-970b-fffccb221c06)](https://github.com/Nicholasdavis03/Employee-Tracker/assets/142276107/e910dbe2-1e78-4052-ae17-b7f5dd69e474)
 
 
 - View all departments, roles, and employees

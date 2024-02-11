@@ -25,12 +25,11 @@ INSERT INTO departments (department_name) VALUES ('New Department Name');
 
 -- Add a role
 INSERT INTO roles (title, salary, department_id) VALUES ('New Role Title', 50000, 1);
--- Replace 1 with the appropriate department_id
+
 
 -- Add an employee
 INSERT INTO employees (first_name, last_name, role_id, manager_id) VALUES ('John', 'Doe', 1, NULL);
--- Replace 1 with the appropriate role_id and NULL if the employee doesn't have a manager, otherwise provide the manager's employee_id
+
 
 -- Update an employee role
 UPDATE employees SET role_id = 2 WHERE employee_id = 1;
--- Replace 2 with the new role_id and 1 with the employee_id of the employee to update
